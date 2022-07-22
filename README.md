@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sufiyaan Usmani</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufiyaanusmani&label=Profile%20views&color=0e29b4&style=plastic" alt="sufiyaanusmani" /> </p>
 
