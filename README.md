@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sufiyaanusmani" alt="sufiyaanusmani" /></a> </p>
 - I'm currently learning AWS, DevOps, React
+
 - 👨‍💻 All of my projects are available at [https://github.com/sufiyaanusmani](https://github.com/sufiyaanusmani)
 
 <h3 align="left">Connect with me:</h3>
