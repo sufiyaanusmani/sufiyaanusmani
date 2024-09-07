@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufiyaanusmani&label=Profile%20views&color=0e75b6&style=flat" alt="sufiyaanusmani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sufiyaanusmani" alt="sufiyaanusmani" /></a> </p>
+
 - I'm currently learning AWS, DevOps, React
 
 - 👨‍💻 All of my projects are available at [https://github.com/sufiyaanusmani](https://github.com/sufiyaanusmani)
